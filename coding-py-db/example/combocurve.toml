@@ -1,0 +1,8 @@
+[connection]
+type = "mysql"
+
+[mysql]
+host = "127.0.0.1" # common value
+port = 3306 # common value
+user = "mike" # made up value
+password = "s3cre3t!" # made up value
